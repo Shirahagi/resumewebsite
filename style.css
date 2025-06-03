@@ -1,0 +1,20 @@
+html {
+  scroll-behavior: smooth;
+}
+
+#home h1 {
+  font-size: 3rem;
+}
+
+.home-section {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+                    url('KPU_Surrey_2024_web_0.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+section {
+  padding-top: 100px;
+  scroll-margin-top: 70px;
+}
